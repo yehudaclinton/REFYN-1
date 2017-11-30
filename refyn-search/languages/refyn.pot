@@ -1,0 +1,792 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Predictive Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-28 11:17+0700\n"
+"PO-Revision-Date: 2015-07-28 11:17+0700\n"
+"Last-Translator: Nguyen Cong Tuan <mr.nguyencongtuan@gmail.com>\n"
+"Language-Team: a3rev\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-interface.php:129
+msgid "Settings successfully saved."
+msgstr ""
+
+#: admin/admin-interface.php:137
+msgid "Error: Settings can not save."
+msgstr ""
+
+#: admin/admin-interface.php:145
+msgid "Settings successfully reseted."
+msgstr ""
+
+#: admin/admin-interface.php:166
+msgid "Thin"
+msgstr ""
+
+#: admin/admin-interface.php:167
+msgid "Thin/Italic"
+msgstr ""
+
+#: admin/admin-interface.php:168
+msgid "Normal"
+msgstr ""
+
+#: admin/admin-interface.php:169
+msgid "Italic"
+msgstr ""
+
+#: admin/admin-interface.php:170
+msgid "Bold"
+msgstr ""
+
+#: admin/admin-interface.php:171
+msgid "Bold/Italic"
+msgstr ""
+
+#: admin/admin-interface.php:181
+msgid "Solid"
+msgstr ""
+
+#: admin/admin-interface.php:182
+msgid "Double"
+msgstr ""
+
+#: admin/admin-interface.php:183
+msgid "Dashed"
+msgstr ""
+
+#: admin/admin-interface.php:184
+msgid "Dotted"
+msgstr ""
+
+#: admin/admin-interface.php:185
+msgid "Groove"
+msgstr ""
+
+#: admin/admin-interface.php:186
+msgid "Ridge"
+msgstr ""
+
+#: admin/admin-interface.php:187
+msgid "Inset"
+msgstr ""
+
+#: admin/admin-interface.php:188
+msgid "Outset"
+msgstr ""
+
+#: admin/admin-interface.php:1396 admin/admin-interface.php:1486
+#: admin/admin-interface.php:1515
+#: admin/settings/all-results-page-settings.php:207
+#: admin/settings/all-results-page-settings.php:218
+#: admin/settings/all-results-page-settings.php:229
+#: admin/settings/all-results-page-settings.php:240
+#: admin/settings/all-results-page-settings.php:251
+#: admin/settings/global-settings.php:247
+#: admin/settings/global-settings.php:283
+msgid "ON"
+msgstr ""
+
+#: admin/admin-interface.php:1397 admin/admin-interface.php:1487
+#: admin/admin-interface.php:1516
+#: admin/settings/all-results-page-settings.php:208
+#: admin/settings/all-results-page-settings.php:219
+#: admin/settings/all-results-page-settings.php:230
+#: admin/settings/all-results-page-settings.php:241
+#: admin/settings/all-results-page-settings.php:252
+#: admin/settings/global-settings.php:248
+#: admin/settings/global-settings.php:284
+msgid "OFF"
+msgstr ""
+
+#: admin/admin-interface.php:1557
+msgid "Width"
+msgstr ""
+
+#: admin/admin-interface.php:1559
+msgid "Height"
+msgstr ""
+
+#: admin/admin-interface.php:1561
+msgid "Hard Crop"
+msgstr ""
+
+#: admin/admin-interface.php:1638
+msgid "-- Default Fonts --"
+msgstr ""
+
+#: admin/admin-interface.php:1649
+msgid "-- Google Fonts --"
+msgstr ""
+
+#: admin/admin-interface.php:1690
+msgid "Preview your customized typography settings"
+msgstr ""
+
+#: admin/admin-interface.php:1824 admin/admin-interface.php:2083
+msgid "Preview your customized border settings"
+msgstr ""
+
+#: admin/admin-interface.php:1833 admin/admin-interface.php:2074
+msgid "Rounded"
+msgstr ""
+
+#: admin/admin-interface.php:1834 admin/admin-interface.php:2075
+msgid "Square"
+msgstr ""
+
+#: admin/admin-interface.php:1844 admin/admin-interface.php:2088
+msgid "Top Left Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1864 admin/admin-interface.php:2108
+msgid "Top Right Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1884 admin/admin-interface.php:2128
+msgid "Bottom Right Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1904 admin/admin-interface.php:2148
+msgid "Bottom Left Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1997
+msgid "Preview your customized border styles settings"
+msgstr ""
+
+#: admin/admin-interface.php:2209
+msgid "YES"
+msgstr ""
+
+#: admin/admin-interface.php:2210
+msgid "NO"
+msgstr ""
+
+#: admin/admin-interface.php:2224
+msgid "Horizontal Shadow"
+msgstr ""
+
+#: admin/admin-interface.php:2242
+msgid "Vertical Shadow"
+msgstr ""
+
+#: admin/admin-interface.php:2260
+msgid "Blur Distance"
+msgstr ""
+
+#: admin/admin-interface.php:2278
+msgid "Spread Size"
+msgstr ""
+
+#: admin/admin-interface.php:2296
+msgid "INNER"
+msgstr ""
+
+#: admin/admin-interface.php:2297
+msgid "OUTER"
+msgstr ""
+
+#: admin/admin-interface.php:2315
+msgid "Preview your customized box shadow settings"
+msgstr ""
+
+#: admin/admin-interface.php:2557
+msgid "Save changes"
+msgstr ""
+
+#: admin/admin-interface.php:2558
+msgid "Reset Settings"
+msgstr ""
+
+#: admin/admin-pages/predictive-search-page.php:63
+#: admin/admin-pages/predictive-search-page.php:64
+msgid "Predictive Search"
+msgstr ""
+
+#: admin/admin-ui.php:135
+#, php-format
+msgid "Settings inside this yellow border are %s Features."
+msgstr ""
+
+#: admin/admin-ui.php:137
+#, php-format
+msgid ""
+"Upgrade to the <a href=\"%s\" target=\"_blank\">%s</a> to activate these "
+"settings."
+msgstr ""
+
+#: admin/admin-ui.php:139 admin/admin-ui.php:141
+msgid "Pro Version"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:149
+msgid "Upload"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:169
+msgid "View File"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:188
+msgid "Use this Image"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:189
+msgid "Use as"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:199
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:81
+msgid "All Results Pages successfully saved."
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:82
+msgid "Error: All Results Pages can not save."
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:83
+msgid "All Results Pages successfully reseted."
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:136
+#: admin/tabs/all-results-pages-tab.php:78
+msgid "All Results Pages"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:180
+msgid "Search results page settings"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:184
+msgid "Results"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:185
+msgid ""
+"The number of results to show before endless scroll click to see more "
+"results."
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:192
+msgid "Description character count"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:193
+msgid ""
+"The number of characters from product descriptions that shows with each "
+"search result."
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:200
+#: classes/class-wc-predictive-search-backbone.php:111
+#: classes/class-wpml-functions.php:59
+msgid "SKU"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:201
+msgid "ON to show product SKU with search results"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:211
+#: classes/class-wc-predictive-search-backbone.php:34
+#: classes/class-wc-predictive-search-backbone.php:112
+#: classes/class-wpml-functions.php:61
+msgid "Price"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:212
+msgid "ON to show product price with search results"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:222
+msgid "Add to cart"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:223
+msgid "On to show Add to cart button with search results"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:233
+#: classes/class-wpml-functions.php:55
+msgid "Product Categories"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:234
+msgid "On to show categories with search results"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:244
+#: classes/class-wpml-functions.php:56
+msgid "Product Tags"
+msgstr ""
+
+#: admin/settings/all-results-page-settings.php:245
+msgid "On to show tags with search results"
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:81
+msgid "Exclude Content Settings successfully saved."
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:82
+msgid "Error: Exclude Content Settings can not save."
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:83
+msgid "Exclude Content Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:170
+#: admin/tabs/exclude-content-tab.php:78
+msgid "Exclude Content"
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:265
+msgid "Exclude From Predictive Search"
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:269
+msgid "Exclude Products"
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:272
+msgid "Choose Products"
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:278
+msgid "Exclude Posts"
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:281
+msgid "Choose Posts"
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:287
+msgid "Exclude Pages"
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:290
+msgid "Choose Pages"
+msgstr ""
+
+#: admin/settings/global-settings.php:82
+msgid "Global Settings successfully saved."
+msgstr ""
+
+#: admin/settings/global-settings.php:83
+msgid "Error: Global Settings can not save."
+msgstr ""
+
+#: admin/settings/global-settings.php:84
+msgid "Global Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/global-settings.php:140
+msgid ""
+"<strong>SUCCESS</strong>! Your Predictive Search Database has been "
+"successfully updated."
+msgstr ""
+
+#: admin/settings/global-settings.php:173
+#: admin/tabs/global-settings-tab.php:78
+msgid "Settings"
+msgstr ""
+
+#: admin/settings/global-settings.php:217
+msgid "Global Search Box Text"
+msgstr ""
+
+#: admin/settings/global-settings.php:223
+msgid "Search Page Configuration"
+msgstr ""
+
+#: admin/settings/global-settings.php:225
+msgid ""
+"Predictive Search has detected the WPML plugin. On install a search page was "
+"auto created for each language in use. Please use the WPML String "
+"Translations plugin to make translation for plugin text for each page. If "
+"adding another language after installing Predictive Search you have to "
+"manually create a search page for it."
+msgstr ""
+
+#: admin/settings/global-settings.php:225
+msgid ""
+"A search results page needs to be selected so that WooCommerce Predictive "
+"Search knows where to show search results. This page should have been "
+"created upon installation of the plugin, if not you need to create it."
+msgstr ""
+
+#: admin/settings/global-settings.php:228
+msgid "Search Page"
+msgstr ""
+
+#: admin/settings/global-settings.php:229
+msgid "Page contents:"
+msgstr ""
+
+#: admin/settings/global-settings.php:235
+msgid "Special Characters"
+msgstr ""
+
+#: admin/settings/global-settings.php:236
+msgid ""
+"Select any special characters that are used on this site. Selecting a "
+"character will mean that results will be returned when user search input "
+"includes or excludes the special character. <strong>IMPORTANT!</strong> Do "
+"not turn this feature on unless needed. If ON - only select actual "
+"characters used in Product Titles, SKU, Category Names etc - each special "
+"character selected creates 1 extra query per search object, per product, "
+"post or page."
+msgstr ""
+
+#: admin/settings/global-settings.php:240
+msgid "Special Character Function"
+msgstr ""
+
+#: admin/settings/global-settings.php:256
+msgid "Select Characters"
+msgstr ""
+
+#: admin/settings/global-settings.php:264
+msgid "Manual Database Sync"
+msgstr ""
+
+#: admin/settings/global-settings.php:265
+msgid ""
+"Predictive Search database is auto updated whenever a product or post is "
+"published or updated. Please run a Manual database sync if you upload "
+"products by csv or feel that Predictive Search results are showing old "
+"data.  Will sync the Predictive Search database with your current "
+"WooCommerce and WordPress databases"
+msgstr ""
+
+#: admin/settings/global-settings.php:271
+msgid "House Keeping"
+msgstr ""
+
+#: admin/settings/global-settings.php:275
+msgid "Clean up on Deletion"
+msgstr ""
+
+#: admin/settings/global-settings.php:276
+msgid ""
+"On deletion (not deactivate) the plugin it will completely remove all of its "
+"code and tables it has created, leaving no trace it was ever here. If "
+"upgrading to the Pro Version this is <span class=\"description\">not "
+"recommended</span>"
+msgstr ""
+
+#: admin/settings/global-settings.php:301
+msgid ""
+"Enter the translated search box text for each language for WPML to show it "
+"correct on the front end."
+msgstr ""
+
+#: admin/settings/global-settings.php:308
+#: admin/settings/global-settings.php:322
+msgid "Text to Show"
+msgstr ""
+
+#: admin/settings/global-settings.php:310
+#: admin/settings/global-settings.php:324
+msgid "&lt;empty&gt; shows nothing"
+msgstr ""
+
+#: admin/settings/global-settings.php:333
+msgid "Sync Search Data"
+msgstr ""
+
+#: admin/settings/global-settings.php:335
+msgid "Sync Now"
+msgstr ""
+
+#: admin/wc-predictive-search-init.php:8 admin/wc-predictive-search-init.php:9
+msgid "Woocommerce Predictive Search"
+msgstr ""
+
+#: classes/class-wc-predictive-search-backbone.php:44
+#: classes/class-wpml-functions.php:65
+msgid "See more search results for"
+msgstr ""
+
+#: classes/class-wc-predictive-search-backbone.php:44
+#: classes/class-wpml-functions.php:66
+msgid "in"
+msgstr ""
+
+#: classes/class-wc-predictive-search-backbone.php:117
+#: classes/class-wpml-functions.php:62
+msgid "Category"
+msgstr ""
+
+#: classes/class-wc-predictive-search-backbone.php:126
+#: classes/class-wpml-functions.php:63
+msgid "Tags"
+msgstr ""
+
+#: classes/class-wc-predictive-search-backbone.php:141
+#: classes/class-wpml-functions.php:74
+msgid "Nothing Found! Please refine your search and try again."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:51
+msgid "Predictive Search Premium"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:52
+msgid ""
+"<strong>WANT MORE?</strong> - WooCommerce Predictive Search Premium gives a "
+"much deeper store catalog search"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:54
+msgid "WooCommerce Predictive Search Premium"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:54
+msgid "Features"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:57
+msgid ""
+"Search options includes Product Categories, Product SKU's, Product Tags."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:58
+msgid "Full Site search optimization with Predictive Search 'Focus Keywords'."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:59
+msgid "Full integration with Yoast SEO or All in One SEO plugins."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:60
+msgid "Insert Predictive Search boxes by shortcode."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:61
+msgid "Exclude Product Cats, Product Tags from search results."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:62
+msgid ""
+"Predictive Search PHP Function for adding the search box in any non widget "
+"area - example the header."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:63
+msgid "Smart Search function with Widgets, Shortcode and the search Function."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:64
+msgid "Search Engine Performance enhancement settings for larger sites."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:65
+msgid "Google Analytics Site Search Integration."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:68
+msgid "View this plugins"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:68
+msgid "documentation"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:69
+msgid "Visit this plugins"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:69
+msgid "support forum"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:70
+msgid "More FREE a3rev WooCommerce Plugins"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:73
+msgid "WooCommerce Product Sort & Display"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:74
+msgid "WooCommerce Products Quick View"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:75
+msgid "WooCommerce Dynamic Products Gallery"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:76
+msgid "WooCommerce Compare Products"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:77
+msgid "WooCommerce Widget Product Slideshow"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:78
+msgid "WooCommerce Email Inquiry & Cart Options"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:81
+msgid "FREE a3rev WordPress Plugins"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:84
+msgid "a3 Lazy Load"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:84
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:85
+msgid "a3 Portfolio"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:86
+msgid "a3 Responsive Slider"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:87
+msgid "Contact Us Page - Contact People"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:88
+msgid "WordPress Email Template"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:89
+msgid "Page View Count"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:99
+msgid "Documentation"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:100
+msgid "Support"
+msgstr ""
+
+#: classes/class-wc-predictive-search-shortcodes.php:81
+#: classes/class-wpml-functions.php:67
+msgid "Viewing all"
+msgstr ""
+
+#: classes/class-wc-predictive-search-shortcodes.php:81
+#: classes/class-wpml-functions.php:68
+msgid "search results for your search query"
+msgstr ""
+
+#: classes/class-wc-predictive-search-shortcodes.php:91
+#: classes/class-wpml-functions.php:69
+msgid "Sort Search Results by"
+msgstr ""
+
+#: classes/class-wc-predictive-search-shortcodes.php:117
+#: classes/class-wpml-functions.php:70
+msgid "Loading More Results..."
+msgstr ""
+
+#: classes/class-wc-predictive-search-shortcodes.php:119
+#: classes/class-wpml-functions.php:71
+msgid "No More Results to Show"
+msgstr ""
+
+#: classes/class-wc-predictive-search-shortcodes.php:122
+#: classes/class-wpml-functions.php:72
+msgid "Fetching search results..."
+msgstr ""
+
+#: classes/class-wc-predictive-search-shortcodes.php:124
+#: classes/class-wpml-functions.php:73
+msgid "No Results to Show"
+msgstr ""
+
+#: classes/class-wpml-functions.php:53
+#: includes/class-wc-predictive-search.php:198
+#: includes/class-wc-predictive-search.php:207
+#: includes/class-wc-predictive-search.php:213
+#: widget/wc-predictive-search-widgets.php:19
+msgid "Product Name"
+msgstr ""
+
+#: classes/class-wpml-functions.php:54
+msgid "Product SKU"
+msgstr ""
+
+#: classes/class-wpml-functions.php:57
+#: includes/class-wc-predictive-search.php:261
+#: includes/class-wc-predictive-search.php:270
+#: includes/class-wc-predictive-search.php:276
+#: widget/wc-predictive-search-widgets.php:20
+msgid "Posts"
+msgstr ""
+
+#: classes/class-wpml-functions.php:58
+#: includes/class-wc-predictive-search.php:261
+#: includes/class-wc-predictive-search.php:270
+#: includes/class-wc-predictive-search.php:276
+#: widget/wc-predictive-search-widgets.php:21
+msgid "Pages"
+msgstr ""
+
+#: classes/class-wpml-functions.php:60
+msgid "Priced"
+msgstr ""
+
+#: classes/class-wpml-functions.php:64 includes/class-legacy-api.php:130
+msgid "Nothing found for that name. Try a different spelling or name."
+msgstr ""
+
+#: widget/wc-predictive-search-widgets.php:28
+msgid ""
+"User sees search results as they type in a dropdown - links through to 'All "
+"Search Results Page' that features endless scroll."
+msgstr ""
+
+#: widget/wc-predictive-search-widgets.php:29
+msgid "WooCommerce Predictive Search"
+msgstr ""
+
+#: widget/wc-predictive-search-widgets.php:170
+msgid "Title:"
+msgstr ""
+
+#: widget/wc-predictive-search-widgets.php:179
+msgid "Search box text message"
+msgstr ""
+
+#: widget/wc-predictive-search-widgets.php:186
+msgid "Search box text message:"
+msgstr ""
+
+#: widget/wc-predictive-search-widgets.php:188
+msgid ""
+"Activate search 'types' for this widget by entering the number of results to "
+"show in the widget dropdown. &lt;empty&gt; = not activated. Sort order by "
+"drag and drop"
+msgstr ""
+
+#: widget/wc-predictive-search-widgets.php:196
+msgid "Show Product prices"
+msgstr ""
+
+#: widget/wc-predictive-search-widgets.php:198
+msgid " Results description character count:"
+msgstr ""

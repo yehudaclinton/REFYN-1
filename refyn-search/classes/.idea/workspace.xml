@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d69242d5-5c46-477f-a4f9-54daa254d9f0" name="Default" comment="" />
+    <ignored path="classes.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="classes" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="class-refyn-search.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class-refyn-search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1452106459000" expanded="true" signature="4015:4084" placeholder="SELECT ID FR... ${$wpdb-&gt;posts}" />
+                <marker date="1452106459000" expanded="true" signature="4849:4894" placeholder="..." />
+                <marker date="1452106459000" expanded="true" signature="5466:5484" placeholder="..." />
+                <marker date="1452106459000" expanded="true" signature="7332:7350" placeholder="..." />
+                <marker date="1452106459000" expanded="true" signature="8535:8553" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-refyn-search-filter.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class-refyn-search-filter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.99231756">
+              <caret line="535" column="25" selection-start-line="535" selection-start-column="25" selection-end-line="535" selection-end-column="25" />
+              <folding>
+                <marker date="1452112225000" expanded="true" signature="1780:1794" placeholder="..." />
+                <marker date="1452112225000" expanded="true" signature="1868:1902" placeholder="..." />
+                <marker date="1452112225000" expanded="true" signature="5447:5610" placeholder="SELECT ID, p... cp_posts" />
+                <marker date="1452112225000" expanded="true" signature="5998:6084" placeholder="SELECT kw, d... cp_refyn_interval" />
+                <marker date="1452112225000" expanded="true" signature="6495:6559" placeholder="DELETE FROM " />
+                <marker date="1452112225000" expanded="true" signature="6886:6926" placeholder="DELETE FROM " />
+                <marker date="1452112225000" expanded="true" signature="7602:7694" placeholder="SELECT * FRO... cp_refyn_keywords" />
+                <marker date="1452112225000" expanded="true" signature="7764:7876" placeholder="SELECT * FRO... cp_refyn_keywords" />
+                <marker date="1452112225000" expanded="true" signature="11748:11808" placeholder="SELECT * FRO... cp_refyn_ai" />
+                <marker date="1452112225000" expanded="true" signature="11877:12021" placeholder="SELECT * FRO... cp_refyn_ai" />
+                <marker date="1452112225000" expanded="true" signature="17479:17622" placeholder="SELECT p.pos... cp_posts" />
+                <marker date="1452112225000" expanded="true" signature="18009:18073" placeholder="SELECT sound... cp_refyn_soundex" />
+                <marker date="1452112225000" expanded="true" signature="18176:18242" placeholder="SELECT sound... cp_refyn_soundex" />
+                <marker date="1452112225000" expanded="true" signature="18879:18945" placeholder="SELECT post_... cp_refyn_stopwords" />
+                <marker date="1452112225000" expanded="true" signature="19331:19391" placeholder="SELECT post_... cp_refyn_stopwords" />
+                <marker date="1452112225000" expanded="true" signature="22765:22866" placeholder="SELECT post_... cp_posts" />
+                <marker date="1452112225000" expanded="true" signature="23278:23421" placeholder="SELECT post_... cp_posts" />
+                <marker date="1452112225000" expanded="true" signature="26818:26961" placeholder="SELECT p.pos... cp_posts" />
+                <marker date="1452112225000" expanded="true" signature="27361:27425" placeholder="SELECT sound... cp_refyn_soundex" />
+                <marker date="1452112225000" expanded="true" signature="27532:27598" placeholder="SELECT sound... cp_refyn_soundex" />
+                <marker date="1452112225000" expanded="true" signature="32625:32768" placeholder="SELECT p.pos... cp_posts" />
+                <marker date="1452112225000" expanded="true" signature="33129:33193" placeholder="SELECT sound... cp_refyn_soundex" />
+                <marker date="1452112225000" expanded="true" signature="33288:33354" placeholder="SELECT sound... cp_refyn_soundex" />
+                <marker date="1452112225000" expanded="true" signature="46756:46829" placeholder="SELECT idsto... cp_refyn_stopwords" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/class-refyn-search-filter.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="70" />
+    <option name="y" value="38" />
+    <option name="width" value="1492" />
+    <option name="height" value="928" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../EKollel/obs_v1" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d69242d5-5c46-477f-a4f9-54daa254d9f0" name="Default" comment="" />
+      <created>1452107564511</created>
+      <option name="number" value="Default" />
+      <updated>1452107564511</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="38" width="1492" height="928" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23458445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893157" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/class-refyn-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1452106459000" expanded="true" signature="4015:4084" placeholder="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1452106459000" expanded="true" signature="4849:4894" placeholder="..." />
+            <marker date="1452106459000" expanded="true" signature="5466:5484" placeholder="..." />
+            <marker date="1452106459000" expanded="true" signature="7332:7350" placeholder="..." />
+            <marker date="1452106459000" expanded="true" signature="8535:8553" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-refyn-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1452106459000" expanded="true" signature="4015:4084" placeholder="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1452106459000" expanded="true" signature="4849:4894" placeholder="..." />
+            <marker date="1452106459000" expanded="true" signature="5466:5484" placeholder="..." />
+            <marker date="1452106459000" expanded="true" signature="7332:7350" placeholder="..." />
+            <marker date="1452106459000" expanded="true" signature="8535:8553" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-refyn-search-filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.99231756">
+          <caret line="535" column="25" selection-start-line="535" selection-start-column="25" selection-end-line="535" selection-end-column="25" />
+          <folding>
+            <marker date="1452112225000" expanded="true" signature="1780:1794" placeholder="..." />
+            <marker date="1452112225000" expanded="true" signature="1868:1902" placeholder="..." />
+            <marker date="1452112225000" expanded="true" signature="5447:5610" placeholder="SELECT ID, p... cp_posts" />
+            <marker date="1452112225000" expanded="true" signature="5998:6084" placeholder="SELECT kw, d... cp_refyn_interval" />
+            <marker date="1452112225000" expanded="true" signature="6495:6559" placeholder="DELETE FROM " />
+            <marker date="1452112225000" expanded="true" signature="6886:6926" placeholder="DELETE FROM " />
+            <marker date="1452112225000" expanded="true" signature="7602:7694" placeholder="SELECT * FRO... cp_refyn_keywords" />
+            <marker date="1452112225000" expanded="true" signature="7764:7876" placeholder="SELECT * FRO... cp_refyn_keywords" />
+            <marker date="1452112225000" expanded="true" signature="11748:11808" placeholder="SELECT * FRO... cp_refyn_ai" />
+            <marker date="1452112225000" expanded="true" signature="11877:12021" placeholder="SELECT * FRO... cp_refyn_ai" />
+            <marker date="1452112225000" expanded="true" signature="17479:17622" placeholder="SELECT p.pos... cp_posts" />
+            <marker date="1452112225000" expanded="true" signature="18009:18073" placeholder="SELECT sound... cp_refyn_soundex" />
+            <marker date="1452112225000" expanded="true" signature="18176:18242" placeholder="SELECT sound... cp_refyn_soundex" />
+            <marker date="1452112225000" expanded="true" signature="18879:18945" placeholder="SELECT post_... cp_refyn_stopwords" />
+            <marker date="1452112225000" expanded="true" signature="19331:19391" placeholder="SELECT post_... cp_refyn_stopwords" />
+            <marker date="1452112225000" expanded="true" signature="22765:22866" placeholder="SELECT post_... cp_posts" />
+            <marker date="1452112225000" expanded="true" signature="23278:23421" placeholder="SELECT post_... cp_posts" />
+            <marker date="1452112225000" expanded="true" signature="26818:26961" placeholder="SELECT p.pos... cp_posts" />
+            <marker date="1452112225000" expanded="true" signature="27361:27425" placeholder="SELECT sound... cp_refyn_soundex" />
+            <marker date="1452112225000" expanded="true" signature="27532:27598" placeholder="SELECT sound... cp_refyn_soundex" />
+            <marker date="1452112225000" expanded="true" signature="32625:32768" placeholder="SELECT p.pos... cp_posts" />
+            <marker date="1452112225000" expanded="true" signature="33129:33193" placeholder="SELECT sound... cp_refyn_soundex" />
+            <marker date="1452112225000" expanded="true" signature="33288:33354" placeholder="SELECT sound... cp_refyn_soundex" />
+            <marker date="1452112225000" expanded="true" signature="46756:46829" placeholder="SELECT idsto... cp_refyn_stopwords" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

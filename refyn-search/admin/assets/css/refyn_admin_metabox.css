@@ -1,0 +1,281 @@
+@font-face {
+  font-family: "refyn-metabox-plugin-framework";
+  src:url("../fonts/refyn-metabox-plugin-framework.eot");
+  src:url("../fonts/refyn-metabox-plugin-framework.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/refyn-metabox-plugin-framework.woff") format("woff"),
+    url("../fonts/refyn-metabox-plugin-framework.ttf") format("truetype"),
+    url("../fonts/refyn-metabox-plugin-framework.svg#refyn-metabox-plugin-framework") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.refyn-metabox-panel-wrap .refyn-metabox-icon:before {
+    font-family: "refyn-metabox-plugin-framework" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.refyn-metabox-wrapper .expand_all:before, .refyn-metabox-wrapper .close_all:before {
+    font-size: 12px;
+    color: #aaa;
+    font-weight: bold !important;
+    margin-right: 5px;
+}
+.refyn-metabox-wrapper .expand_all:before {
+    content: "\e000";
+}
+.refyn-metabox-wrapper .close_all:before {
+    content: "\e002";
+}
+.refyn-metabox-wrapper .refyn-metabox-item .handlediv:before {
+    font-size: 16px !important;
+}
+.refyn-metabox-wrapper .refyn-metabox-item.closed .handlediv:before {
+    content: "\e005"!important;
+}
+.refyn-metabox-wrapper .refyn-metabox-item.open .handlediv:before {
+    content: "\e004"!important;
+}
+
+.refyn-metabox-panel-wrap {
+    background: #fff;
+    padding-left: 153px;
+    box-sizing: border-box;
+}
+.refyn-metabox-wrapper, .refyn-metabox-options-panel {
+    float: right;
+    width: 100%;
+}
+.refyn-metabox-wrapper .refyn-metabox-items, .refyn-metabox-wrapper p.toolbar, .refyn-metabox-options-panel .refyn-metabox-items, .refyn-metabox-options-panel p.toolbar {
+    padding-left: 12px!important;
+    padding-right: 20px!important;
+}
+.refyn-metabox-tabs-back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background: #f5f5f5;
+    width: 145px;
+    border-right: 1px solid #DFDFDF;
+}
+ul.refyn-metabox-data-tabs {
+    background: #f5f5f5;
+    line-height: 1em;
+    float: left;
+    width: 145px;
+    margin: 0 0 0 -153px;
+    position: relative;
+    padding: 0 0 10px;
+}
+ul.refyn-metabox-data-tabs li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+ul.refyn-metabox-data-tabs li a {
+    padding: 10px;
+    line-height: 18px!important;
+    margin: 0;
+    display: block;
+    background: #f5f5f5;
+    text-decoration: none;
+    border-bottom: 1px solid #f5f5f5;
+    border-top: 1px solid #eaeaea;
+}
+ul.refyn-metabox-data-tabs li:first-child a {
+    border-top: 0 !important;
+}
+ul.refyn-metabox-data-tabs li.active a {
+    border-color: #DFDFDF;
+    position: relative;
+    background-color: #fff;
+    color: #555;
+    margin: 0 -1px 0 0;
+}
+.refyn-metabox-panel, .refyn-metabox-options-panel {
+    padding: 0;
+    color: #555
+}
+.refyn-metabox-panel table.form-table td label,
+.refyn-metabox-panel table.form-table td span,
+.refyn-metabox-panel table.form-table td a,
+.refyn-metabox-panel table.form-table td input,
+.refyn-metabox-panel table.form-table td select,
+.refyn-metabox-panel table.form-table td *,
+.refyn-metabox-panel table.form-table td,
+.refyn-metabox-panel * {
+    font-size: 13px;
+}
+
+.refyn-metabox-wrapper .toolbar {
+    margin: 0!important;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #DFDFDF;
+    padding: 9px 12px!important;
+}
+.refyn-metabox-wrapper .toolbar:first-child {
+    border-top: 0
+}
+.refyn-metabox-wrapper .toolbar: last-child {
+    border-bottom: 0
+}
+.refyn-metabox-wrapper p.toolbar {
+    overflow: hidden;
+    zoom: 1;
+}
+.refyn-metabox-wrapper .refyn-metabox-items {
+    border-bottom: 1px solid #DFDFDF;
+    padding: 0 12px;
+}
+.refyn-metabox-wrapper .refyn-metabox-item-sortable-placeholder {
+    border-color: #bbb;
+    background-color: #f5f5f5;
+    margin-bottom: 9px;
+    border-width: 1px;
+    border-style: dashed
+}
+.refyn-metabox-wrapper .refyn-metabox-item {
+    background: #fff;
+    border: 1px solid #dfdfdf;
+    margin: 9px 0!important;
+    -moz-border-radius-topleft: 3px;
+    -moz-border-radius-topright: 3px;
+    -webkit-border-top-left-radius: 3px;
+    -webkit-border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px
+}
+.refyn-metabox-wrapper .refyn-metabox-item .handlediv:before {
+    line-height: 1!important;
+}
+.refyn-metabox-wrapper .refyn-metabox-item.closed {
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+.refyn-metabox-wrapper .refyn-metabox-item.closed h3 {
+    border: 0;
+}
+.refyn-metabox-wrapper .refyn-metabox-item h3 {
+    margin: 0!important;
+    padding: 10px 10px 10px 0 !important;
+    font-size: 1em!important;
+    overflow: hidden;
+    zoom: 1;
+    cursor: pointer;
+    position: relative;
+}
+.refyn-metabox-wrapper .refyn-metabox-item h3 span {
+    font-weight: 400;
+}
+.refyn-metabox-wrapper .refyn-metabox-item.open h3 {
+    cursor: ne-resize;
+}
+.refyn-metabox-wrapper .refyn-metabox-item.closed h3 {
+    cursor: sw-resize;
+}
+.refyn-metabox-wrapper .refyn-metabox-item h3 button {
+    float: right;
+}
+.refyn-metabox-wrapper .refyn-metabox-item h3 strong {
+    line-height: 1;
+    margin-left: 10px;
+}
+.refyn-metabox-wrapper .refyn-metabox-item h3 .handlediv {
+    background-position: 6px 5px!important;
+    height: 24px;
+    width: 24px;
+    position: absolute;
+    z-index: 1000;
+    right: 0;
+}
+.refyn-metabox-wrapper .refyn-metabox-item h3.fixed {
+    cursor: pointer!important;
+}
+.refyn-metabox-wrapper .refyn-metabox-item h3:hover .handlediv {
+    display: block;
+}
+.refyn-metabox-wrapper .refyn-metabox-item table {
+    width: 100%;
+    position: relative;
+    background: #fff;
+    padding: 0px;
+    margin: 0px;
+}
+.refyn-metabox-wrapper .refyn-metabox-item h3 table {
+    margin: 0;
+}
+.refyn-metabox-wrapper .refyn-metabox-item h3 table td:first-child {
+    width: 25%;
+}
+.refyn-metabox-panel table tr td:first-child {
+    width: 25%;
+}
+.refyn-metabox-wrapper .refyn-metabox-item table td {
+    text-align: left;
+    padding: 10px;
+    vertical-align: top;
+    border: 0
+}
+.refyn-metabox-wrapper .refyn-metabox-item table td label {
+    text-align: left;
+    display: block;
+    line-height: 21px;
+}
+.refyn-metabox-wrapper .close_all, .refyn-metabox-wrapper .expand_all {
+    float: right;
+    margin-left: 14px;
+    line-height: 22px;
+    text-decoration: none
+}
+@media only screen and (max-width: 900px) {
+    .refyn-metabox-panel-wrap {
+        padding-left: 35px;
+    }
+    .refyn-metabox-tabs-back {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: 28px;
+        border-right: 1px solid #DFDFDF;
+    }
+    ul.refyn-metabox-data-tabs {
+        width: 28px;
+        margin-left: -35px;
+    }
+    ul.refyn-metabox-data-tabs li a {
+        overflow: hidden;
+        white-space: nowrap;
+    }
+    .refyn-metabox-tabs-back, ul.refyn-metabox-data-tabs {
+            width: 40px;
+    }
+    ul.refyn-metabox-data-tabs li a {
+        position: relative;
+        text-indent: -999px;
+        padding: 10px;
+    }
+    ul.refyn-metabox-data-tabs li a:before {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        text-indent: 0;
+        text-align: center;
+        line-height: 40px;
+        width: 40px;
+        height: 40px;
+    }
+    .refyn-metabox-wrapper, .refyn-metabox-options-panel {
+        width: 98%;
+    }
+}
